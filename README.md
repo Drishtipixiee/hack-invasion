@@ -1,6 +1,6 @@
-# 🌊 ResilienceNet — Real-Time Deep-Tech Disaster Intelligence
+#  ResilienceNet — Real-Time Deep-Tech Disaster Intelligence
 
-> **Hackathon Winning Project** | Community-Driven AI-Powered Disaster Response for Mumbai
+> Community-Driven AI-Powered Disaster Response for Mumbai
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Production_Ready-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react)](https://react.dev)
@@ -8,15 +8,15 @@
 
 ---
 
-## 🚨 The Emergency
+##  The Emergency
 
 Mumbai faces extreme climate vulnerabilities — flash floods, fires, and infrastructure collapses. Conventional emergency response relies on scattered phone calls causing a **data fragmentation nightmare**. By the time first responders analyze the sheer volume of duplicate reports, the **Golden Hour** has passed.
 
-## 💡 The Innovation: ResilienceNet
+##  The Innovation: ResilienceNet
 
 ResilienceNet is a **Full-Stack, Real-Time Geo-Spatial Emergency Grid**. We bypassed traditional polling strategies and built an aggressive, bi-directional intelligence platform.
 
-### 🔥 Why it stands out (The "Wow" Factor)
+###  Why it stands out (The "Wow" Factor)
 1. **AI Auto-Assessment Engine**: User descriptions are parsed through an NLP-simulate heuristic layer that intercepts under-reported emergencies (e.g. "blood", "explosion") and forcefully escalates them to `CRITICAL` before database insertion.
 2. **Real-Time Sentinel UI**: Built with Framer Motion and React-Leaflet, the map consumes a `Server-Sent Events (SSE)` stream to dynamically render new threats in *milliseconds* without a single page reload.
 3. **Geo-Deduplication Algorithm**: A custom Haversine backend service automatically merges incident reports of the same crisis within a 500-meter radius, tracking "high velocity" threats without spamming the database.
