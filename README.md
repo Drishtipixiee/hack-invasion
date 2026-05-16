@@ -25,7 +25,7 @@ ResilienceNet is a **Full-Stack, Real-Time Geo-Spatial Emergency Grid**. We bypa
 
 ---
 
-## ✨ System Architecture
+##  System Architecture
 
 ```text
 frontend/ (Vite + React 19 + Tailwind)
@@ -39,7 +39,7 @@ backend/ (FastAPI + SQLAlchemy)
  ├── services/sse_service.py      # Real-time event broadcasting
 ```
 
-## 🛠️ Tech Stack Architecture
+##  Tech Stack Architecture
 **Core Logic**: Python (FastAPI), **Database**: SQLite (Production: PostgreSQL)
 **Client Edge**: React 19, Vite, Tailwind CSS, Framer Motion
 **Geo-Spatial**: React-Leaflet, Leaflet.js
@@ -47,7 +47,7 @@ backend/ (FastAPI + SQLAlchemy)
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Backend Server
 ```bash
@@ -68,7 +68,7 @@ npm run dev
 
 ---
 
-## 🔐 Operator Access
+##  Operator Access
 To review the Admin UI capabilities:
 - **Route**: `http://localhost:5173/admin/login`
 - **User**: `admin`
